@@ -3,8 +3,8 @@ This repository contains an aggregation of learning resources on a wide range of
 
 - [General concepts](general-concepts.md)
 - [Programming languages](programming-languages.md)
-- [Backend frameworks](backend-frameworks.md)
-- [Frontend frameworks](frontend-frameworks.md)
+- [Backend web frameworks](backend-web-frameworks.md)
+- [Frontend web frameworks](frontend-web-frameworks.md)
 - [Databases en queing systems](databases-queues.md)
 - [Design, UI and UX](design-ui-ux.md)
 - [DevOps](devops.md)

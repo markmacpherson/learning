@@ -1,6 +1,7 @@
 # Learning resources
 This repository contains an aggregation of learning resources on a wide range of topics. Have a great learning resource? Please submit a pull request.
 
+- [General concepts](general-concepts.md)
 - [Programming languages](programming-languages.md)
 - [Backend frameworks](backend-frameworks.md)
 - [Frontend frameworks](frontend-frameworks.md)

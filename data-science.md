@@ -1,18 +1,20 @@
 # Data science
 
+## Tools
+- [Project Jupyter](http://jupyter.org/)
+
 ## Data manipulation
-- Pandas
+- [Pandas](http://pandas.pydata.org/)
 
 ## Data visualisation
 
 ## Computation
-- Tensorflow
-- scikit-learn
-
-## Low-level computation
-- numpy
-- scipy
+- [Tensorflow](https://www.tensorflow.org/)
+- [scikit-learn](http://scikit-learn.org/)
 
 ## Batch / stream processing
-- Hadoop
-- Spark
+
+### Hadoop
+
+### Spark
+- [Official Spark documentation](https://spark.apache.org/documentation.html)

@@ -1,7 +1,10 @@
 # Programming languages
 
 ## Python
+- [Python 3.x documentation](https://docs.python.org/3/)
+- [Django documentation](https://docs.djangoproject.com/en/1.11/)
 - [Django girls tutorial](https://tutorial.djangogirls.org/)
+- [Django Class-based views](http://ccbv.co.uk/)
 
 ## Javascript / Typescript
 - [ECMAScript 6 for everyone by Wes Bos](https://es6.io/)

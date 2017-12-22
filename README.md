@@ -11,3 +11,4 @@ This repository contains an aggregation of learning resources on a wide range of
 - [API's / RPC](topics/api-rpc.md)
 - [Data science](topics/data-science.md)
 - [Authentication](topics/authentication.md)
+- [Tooling](topics/tooling.md)

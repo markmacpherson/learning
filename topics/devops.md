@@ -2,6 +2,20 @@
 
 - [Collection of various devops tools on github](https://github.com/collections/devops-tools)
 
+
+## Unit testing and linting
+
+### Python
+
+- [Unit Testing](https://github.com/pytest-dev/pytest)
+- [Type hinting for Python3](https://github.com/python/mypy)
+- [Python Linting](https://www.pylint.org/)
+
+### React
+- [Accessibility linting for React](https://github.com/reactjs/react-a11y)
+- [React Testing](https://facebook.github.io/jest/docs/en/tutorial-react.html)
+- [React Testomg - Jest](https://github.com/facebook/jest)
+
 ## Configuration managment
 
 ### Ansible

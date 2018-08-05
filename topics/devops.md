@@ -33,6 +33,8 @@
 - [Jenkins official documentation](https://jenkins.io/doc/)
 ### Gitlab
 - [Gitlab official documentation](https://docs.gitlab.com/)
+### Brigade
+- [Brigade official documentation](https://azure.github.io/brigade/)
 
 ## Docker
 - [Docker official documentation](https://docs.docker.com/)

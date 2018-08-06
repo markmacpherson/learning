@@ -42,6 +42,7 @@
 ### Docker Container Security
 - [security serction of the official Docker documentation](https://docs.docker.com/engine/security/security/)
 - [the-golden-ticket-docker-and-high-security-microservices](https://www.slideshare.net/Docker/the-golden-ticket-docker-and-high-security-microservices-by-aaron-grattafiori)
+- [Clair - container / image static security analysis](https://github.com/coreos/clair)
 
 ## Container orchestration
 

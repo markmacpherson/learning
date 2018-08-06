@@ -51,6 +51,7 @@
 
 ### Kubernetes
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Kubernetes docs](https://kubernetes.io/docs/home/)
 
 ## Software quality
 - [Sonarqube official documentations](https://docs.sonarqube.org/)

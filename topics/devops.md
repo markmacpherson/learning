@@ -33,6 +33,8 @@
 - [Jenkins official documentation](https://jenkins.io/doc/)
 ### Gitlab
 - [Gitlab official documentation](https://docs.gitlab.com/)
+### Brigade
+- [Brigade official documentation](https://azure.github.io/brigade/)
 
 ## Docker
 - [Docker official documentation](https://docs.docker.com/)
@@ -40,6 +42,7 @@
 ### Docker Container Security
 - [security serction of the official Docker documentation](https://docs.docker.com/engine/security/security/)
 - [the-golden-ticket-docker-and-high-security-microservices](https://www.slideshare.net/Docker/the-golden-ticket-docker-and-high-security-microservices-by-aaron-grattafiori)
+- [Clair - container / image static security analysis](https://github.com/coreos/clair)
 
 ## Container orchestration
 
@@ -48,6 +51,7 @@
 
 ### Kubernetes
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Kubernetes docs](https://kubernetes.io/docs/home/)
 
 ## Software quality
 - [Sonarqube official documentations](https://docs.sonarqube.org/)
